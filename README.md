@@ -11,7 +11,10 @@ Repositório para armazenar sobre Git e GitHub do curso versionamento de códico
 #Resumos
 |Aulas  | Resumos  |
 |-------|----------|
-|Gravando Alterações no repositorio local |
+|Aulas 01|[resumo]()|
+|Aulas 02|[resumo]() | 
+
+
 
 ````
 git init
